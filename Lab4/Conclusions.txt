@@ -1,0 +1,10 @@
+Conclusions
+ 
+As we can see in the original algorithm of the Boston House Prices dataset where we use KNN to predict,
+the mean square error is almost 52% which is very high to our goal, when we change our predictor for the
+OLS linear regression, the difference is so big, the errors change to the 24%, that means is much better 
+than the KNN. 
+At the final, we try with the linear regression and we realize that the errors could be smaller,
+We saw that the errors was around 21%. It allow us to conclude that for this classification problem,
+the best model is a linear regression, although we know that for the classification problems, it isn't
+always the rule. 
